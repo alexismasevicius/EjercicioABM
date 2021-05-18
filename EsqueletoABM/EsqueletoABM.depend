@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1620940246 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1621190536 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"empleado.h"
+	"menu.h"
+	"sectores.h"
+	"comida.h"
+	"almuerzo.h"
+	"datawarehouse.h"
+
+1620926618 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\utn.h
+
+1620496061 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\eempleado.h
+
+1621190402 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\empleado.h
+	"sectores.h"
+	"fecha.h"
+
+1621190403 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleado.h"
+	"utn.h"
+	"datawarehouse.h"
+
+1621100922 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\menu.h
+
+1621116028 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+
+1621190500 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\sectores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"sectores.h"
+	"utn.h"
+	"datawarehouse.h"
+
+1621190500 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\sectores.h
+
+1621190500 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\datawarehouse.h
+	"empleado.h"
+	"sectores.h"
+	"comida.h"
+
+1621104945 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleado.h"
+	"utn.h"
+	"informes.h"
+
+1621104931 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\informes.h
+
+1621189978 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"almuerzo.h"
+	"comida.h"
+	"empleado.h"
+	"utn.h"
+	"datawarehouse.h"
+
+1621190273 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\comida.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleado.h"
+	"utn.h"
+	"datawarehouse.h"
+	"comida.h"
+
+1621105411 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\fecha.h
+
+1621190402 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\comida.h
+
+1621111294 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\almuerzo.h
+	"fecha.h"
+	"comida.h"
+	"empleado.h"
+
+1621190501 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\a b m\esqueletoabm\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
